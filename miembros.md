@@ -1,5 +1,6 @@
 # Miembros
 
+* tuerto
 * Black panther
 * Black Widow
 * Capitán America
